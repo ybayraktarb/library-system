@@ -6,7 +6,7 @@ This projects simulates a library information management system and was built to
 ## Technologies Used
 
 **Frontend**:  
-- React  
+- React(Vite+Typescript)
 - Axios  
 - Bootstrap
 
