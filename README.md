@@ -29,3 +29,9 @@ This projects simulates a library information management system and was built to
 
 ---
 
+<img width="1621" alt="sign up" src="https://github.com/user-attachments/assets/47a5a0d5-d613-4b96-96b5-6def8334182f" />
+
+
+<img width="1638" alt="sign in" src="https://github.com/user-attachments/assets/a7c23ab7-7c3a-4407-9c59-01c5b375e750" />
+
+
