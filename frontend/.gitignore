@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+dist/
+.cache/
+.vite/
+
+# Build
+build/
+coverage/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Public assets (büyük veya demo dışı ise)
+public/orjinal.png
+public/librarybackgbb.png
+public/favicon.ico

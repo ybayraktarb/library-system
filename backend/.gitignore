@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+*.db
+*.sqlite3
+
+# Environment
+.env
+*.env
+
+# Migrations
+*/migrations/
